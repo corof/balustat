@@ -1,0 +1,2 @@
+# balustat
+Einfache Statik
